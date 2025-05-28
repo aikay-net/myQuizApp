@@ -1,5 +1,5 @@
 h1{
-    font-family: cursive;
+    font-family: arial;
     color: antiquewhite;
     margin-left: 40%;
 
@@ -35,7 +35,7 @@ button{
     width: 60vw;
     height:10vh;
     border-radius: 1vw;
-    font-family: cursive;
+    font-family: arial;
     color: antiquewhite;
     font-size: larger;
     box-shadow: 0 5px 10px rgba(0,0,0,1);
@@ -65,5 +65,5 @@ button:active{
 }
 
 input::placeholder{
-    font-family: cursive;
+    font-family: arial;
 }
