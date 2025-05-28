@@ -1,12 +1,12 @@
 h1{
-    font-family: cursive;
+    font-family: arial;
     color: antiquewhite;
     padding-left: 40%;
 }
 
 body{
     background-color: rgb(66, 18, 111);
-    font-family: cursive;
+    font-family: arial;
     color: antiquewhite;
 }
 
@@ -20,7 +20,7 @@ button{
     width: 60vw;
     height:10vh;
     border-radius: 1vw;
-    font-family: cursive;
+    font-family: arial;
     color: antiquewhite;
     font-size: 95%;
     box-shadow: 0 5px 10px rgba(0,0,0,1);
