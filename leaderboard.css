@@ -1,0 +1,44 @@
+h1{
+    font-family: cursive;
+    color: antiquewhite;
+    margin-left: 40%;
+}
+
+body{
+    background-color: blueviolet;
+    color: antiquewhite;
+    font-family: cursive;
+}
+
+#leaderboard-list{
+    list-style: none;
+    max-width: 30em;
+    margin:auto;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1em;
+}
+
+.leaderboardItem{
+    background: rgb(185, 119, 246);
+    border: 1px solid #ccc;
+    border-radius: 0.5em;
+    box-shadow: 0 5px 10px rgba(0,0,0,1);
+    align-items: center;
+    padding: 12px 12px;
+}
+
+.leaderboardItem:nth-child(1){
+    background-color: rgb(246, 223, 91);
+    font-weight: bold;
+}
+
+.leaderboardItem:nth-child(2){
+    background-color: silver;
+}
+
+.leaderboardItem:nth-child(3){
+    background-color: #cd7f32;
+}
+

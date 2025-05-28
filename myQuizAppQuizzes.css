@@ -1,0 +1,36 @@
+h1{
+    font-family: cursive;
+    color: antiquewhite;
+    padding-left: 40%;
+}
+
+body{
+    background-color: rgb(66, 18, 111);
+    font-family: cursive;
+    color: antiquewhite;
+}
+
+hr{
+    box-shadow: 0 2px 5px rgba(0,0,0,1.5);
+}
+
+button{
+    border: none;
+    background-color:rgb(118, 80, 154);
+    width: 60vw;
+    height:10vh;
+    border-radius: 1vw;
+    font-family: cursive;
+    color: antiquewhite;
+    font-size: 95%;
+    box-shadow: 0 5px 10px rgba(0,0,0,1);
+    margin-left: 20%;
+}
+
+#result{
+    margin-left: 40%;
+}
+
+.move{
+    margin-top: 2%;
+}
